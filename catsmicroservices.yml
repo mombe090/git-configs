@@ -5,4 +5,4 @@ server:
 
 # Configs
 my-configs:
-  dogsColor: green-red
+  dogsColor: green-red-true
