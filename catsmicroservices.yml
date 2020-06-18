@@ -6,3 +6,8 @@ server:
 # Configs
 my-configs:
   dogsColor: green-red-yellow
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
